@@ -12,7 +12,7 @@ import createBG from "./createBackground";
 import createNetwork from "./createComputerNetwork";
 import { InteractionManager } from "three.interactive";
 import * as TWEEN from "@tweenjs/tween.js";
-import loadAeBot from "./loadAeBot";
+// import loadAeBot from "./loadAeBot";
 import * as THREE from "three";
 import { eventNames } from "process";
 import { object } from "webidl-conversions";
